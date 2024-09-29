@@ -1,7 +1,7 @@
 
 
 # High-Precision Retrieval of Vegetation Leaf and Canopy Chlorophyll Content
-## <div align="center"><b><a href="[README.md](README.md)">English</a> | <a href="https://github.com/ZhijianWei/RS/blob/main/CCC_Retrieval_WZJ/READMEzh.md">Chinese</a></b></div>
+## <div align="center"><b><a href="https://github.com/ZhijianWei/RS/blob/main/CCC_Retrieval_WZJ/README.md">English</a> | <a href="https://github.com/ZhijianWei/RS/blob/main/CCC_Retrieval_WZJ/READMEzh.md">Chinese</a></b></div>
 
 
 #### Author: Zhijian Wei (Nanjing Agricultural University), if you have any questions, please feel free to contact me at ``18151936092@163.com``📧
