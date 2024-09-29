@@ -2,7 +2,7 @@
 
 
 # 植被叶片和冠层叶绿素含量高精度反演
-## <div align="center"><b><a href="[README.md](README.md)">English</a> | <a href=[READMEzh.md](READMEzh.md)>简体中文</a></b></div>
+## <div align="center"><b><a href="https://github.com/ZhijianWei/RS/blob/main/CCC_Retrieval_WZJ/README.md">English</a> | <a href="https://github.com/ZhijianWei/RS/blob/main/CCC_Retrieval_WZJ/READMEzh.md">简体中文</a></b></div>
 
 
 #### 作者：魏智健 (南京农业大学) ，如果有任何问题，请随时联系我``18151936092@163.com``📧
@@ -20,7 +20,7 @@
   <br><br>
  * **航空平台CCC的反演**: 需输入哨兵2号多光谱影像文件
 <br>
-<br>
+
 ## 🔧依赖库
 
 参考[requirements.txt](requirements.txt)
